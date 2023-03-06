@@ -1,0 +1,160 @@
+{
+    "JMR" : [
+        "JET_MassRes"
+    ],
+    
+    "JMS" : [
+        "JET_CombMass_Baseline",
+        "JET_CombMass_Modelling"
+    ],
+
+    "JET" : [
+        "JET_CombMass_Tracking",
+        "JET_EffectiveNP",
+        "JET_EtaIntercalibration",
+        "JET_Flavor_Composition",
+        "JET_Flavor_Response",
+        "JET_SingleParticle_HighPt",
+        "JET_LargeR_TopologyUncertainty"
+    ],
+
+    "Gen+Th" : [
+        "PartonShower",
+        "MatrixElement",
+        "wVar3cUp",
+        "wisr_muRfac1p0_fsr_muRfac2p0",
+        "wVar3cDown",
+        "wisr_muRfac1p0_fsr_muRfac0p5",
+        "wMUR0p5_MUF0p5",
+        "wMUR2p0_MUF2p0",
+        "xsec_unc_"
+    ],
+
+    "bTag" : [
+        "wFT_EFF_Eigen_B",
+        "wFT_EFF_Eigen_C",
+        "wFT_EFF_Eigen_Light",
+        "wFT_EFF_extrapolation"
+    ],
+
+    "AllSys" : [
+        "JET_MassRes",  
+        "JET_CombMass_Baseline",
+        "JET_CombMass_Modelling",
+        "JET_CombMass_Tracking",
+        "JET_EffectiveNP",
+        "JET_EtaIntercalibration",
+        "JET_Flavor_Composition",
+        "JET_Flavor_Response",
+        "JET_SingleParticle_HighPt",
+        "JET_LargeR_TopologyUncertainty",
+        "PartonShower",
+        "MatrixElement",
+        "wVar3cUp",
+        "wisr_muRfac1p0_fsr_muRfac2p0",
+        "wVar3cDown",
+        "wisr_muRfac1p0_fsr_muRfac0p5",
+        "wMUR0p5_MUF0p5",
+        "wMUR2p0_MUF2p0",
+        "xsec_unc_",
+        "wFT_EFF_Eigen_B",
+        "wFT_EFF_Eigen_C",
+        "wFT_EFF_Eigen_Light",
+        "wFT_EFF_extrapolation"
+    ],
+
+    "AllSys+QCD" : [
+        "JET_MassRes",  
+        "JET_CombMass_Baseline",
+        "JET_CombMass_Modelling",
+        "JET_CombMass_Tracking",
+        "JET_EffectiveNP",
+        "JET_EtaIntercalibration",
+        "JET_Flavor_Composition",
+        "JET_Flavor_Response",
+        "JET_SingleParticle_HighPt",
+        "JET_LargeR_TopologyUncertainty",
+        "PartonShower",
+        "MatrixElement",
+        "wVar3cUp",
+        "wisr_muRfac1p0_fsr_muRfac2p0",
+        "wVar3cDown",
+        "wisr_muRfac1p0_fsr_muRfac0p5",
+        "wMUR0p5_MUF0p5",
+        "wMUR2p0_MUF2p0",
+        "xsec_unc_",
+        "wFT_EFF_Eigen_B",
+        "wFT_EFF_Eigen_C",
+        "wFT_EFF_Eigen_Light",
+        "wFT_EFF_extrapolation",
+
+        "yield_QCD_sr",
+        "c_sr",
+        "d_sr",
+        "e_sr",
+        "f_sr",
+        "g_sr",
+        "h_sr"
+    ],
+
+    "AllSys+QCDyield" : [
+        "JET_MassRes",  
+        "JET_CombMass_Baseline",
+        "JET_CombMass_Modelling",
+        "JET_CombMass_Tracking",
+        "JET_EffectiveNP",
+        "JET_EtaIntercalibration",
+        "JET_Flavor_Composition",
+        "JET_Flavor_Response",
+        "JET_SingleParticle_HighPt",
+        "JET_LargeR_TopologyUncertainty",
+        "PartonShower",
+        "MatrixElement",
+        "wVar3cUp",
+        "wisr_muRfac1p0_fsr_muRfac2p0",
+        "wVar3cDown",
+        "wisr_muRfac1p0_fsr_muRfac0p5",
+        "wMUR0p5_MUF0p5",
+        "wMUR2p0_MUF2p0",
+        "xsec_unc_",
+        "wFT_EFF_Eigen_B",
+        "wFT_EFF_Eigen_C",
+        "wFT_EFF_Eigen_Light",
+        "wFT_EFF_extrapolation",
+
+        "yield_QCD_sr"
+    ],
+
+    "AllSys+QCDshape" : [
+        "JET_MassRes",  
+        "JET_CombMass_Baseline",
+        "JET_CombMass_Modelling",
+        "JET_CombMass_Tracking",
+        "JET_EffectiveNP",
+        "JET_EtaIntercalibration",
+        "JET_Flavor_Composition",
+        "JET_Flavor_Response",
+        "JET_SingleParticle_HighPt",
+        "JET_LargeR_TopologyUncertainty",
+        "PartonShower",
+        "MatrixElement",
+        "wVar3cUp",
+        "wisr_muRfac1p0_fsr_muRfac2p0",
+        "wVar3cDown",
+        "wisr_muRfac1p0_fsr_muRfac0p5",
+        "wMUR0p5_MUF0p5",
+        "wMUR2p0_MUF2p0",
+        "xsec_unc_",
+        "wFT_EFF_Eigen_B",
+        "wFT_EFF_Eigen_C",
+        "wFT_EFF_Eigen_Light",
+        "wFT_EFF_extrapolation",
+        
+        "c_sr",
+        "d_sr",
+        "e_sr",
+        "f_sr",
+        "g_sr",
+        "h_sr"
+    ]
+}
